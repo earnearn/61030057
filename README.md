@@ -1,5 +1,5 @@
 #include <stdio.h>
 main( )
 {
-    printf("hello, world\n");
+    printf("hello, °ÿ≈√—µπÏ  ª≈Ÿ° °ÿ≈\n");
 }
