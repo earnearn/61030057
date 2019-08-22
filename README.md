@@ -1,5 +1,8 @@
 #include <stdio.h>
 main( )
 {
-    printf("hello, °ÿ≈√—µπÏ  ª≈Ÿ° °ÿ≈\n");
+  char yourname[100];
+   printf("What is your name?\t");
+   scanf("%s",yourname);
+    printf("hello, %s\n", yourname);
 }
